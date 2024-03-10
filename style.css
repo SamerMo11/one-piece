@@ -54,7 +54,7 @@
   }
 }
 
-/* .reveal {
+.reveal {
   position: relative;
   transform: translateY(100px);
   opacity: 0;
@@ -106,7 +106,7 @@
 .rotate.active{
   transform: rotate(0deg);
 }
- */
+
 
 @keyframes slideTop {
   0% {
